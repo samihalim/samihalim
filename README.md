@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Sami Halim
-- 🔭  - I’m currently working on finding a Web Development or Project Manager position
-- 🌱  - I’m currently learning/imporving my understanding of Javascript and React 
-- 👯  - I’m looking to collaborate on open source sustinablity related projects 
-- 💬  - Ask me about being a third culture kid
+- 🔭  - I’m currently working as a Product Manager! 
+- 🌱  - I’m currently learning/improving my understanding of Product and design frameworks. 
+- 👯  - I’m looking to collaborate on open source sustainability related projects 
+- 💬  - Ask me about being a third-culture kid
 - 📫. - How to reach me: samihalim@gmail.com
 - 😄  - Pronouns: he/him
 <!--
